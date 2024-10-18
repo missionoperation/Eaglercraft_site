@@ -46,11 +46,15 @@ body{
 }
 
 .items{
-	top: 100px;
-	width: 150px;
+	top: 125px;
+	width: 175px;
 	transition: 200ms ease-in-out;
 	cursor: pointer;
 	margin: 40px;
 	border-radius: 20px;
 	z-index: 2;
   }
+
+.items:hover{
+	transform: scale(1.07);
+}
