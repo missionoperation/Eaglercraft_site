@@ -14,6 +14,6 @@
 
 ## Eaglercraft Mobile ##
 ### For those who are wondering, this site is able to be played on a mobile phone/ipad and computer. ###
- ## <p align="center"> The Site if you cant download it: https://rawcdn.githack.com/missionoperation/Randomness-V.6.5.0/f850677db0e631c5d4f37933ed93009f66cf72bc/Index.html </p>
+ ## <p align="center"> The Site if you cant download it: https://raw.githack.com/missionoperation/Sector/main/index.html </p>
 
 
