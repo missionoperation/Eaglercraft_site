@@ -2,6 +2,7 @@ body{
 	background-color: aliceblue;
 	background-image: url("minecraft.png");
 	background-repeat: no-repeat;
+	scroll-behavior: smooth;
 }
 
 .headText{
